@@ -8,10 +8,13 @@ Configurações iniciais para sistemas operacionais na BrNet-Cloud
 4. [Links](#6-links)
 
 ## 1. CentOS
-[Contribution guidelines for this project](centos6x.md)
+[Configurações para CentOS 6x](centos6x.md)
+
+## 3. Ubuntu
+[Configurações para Ubuntu 18x](ubuntu18x.md)
 
 ## 3. Microsoft-Windows-Server
-
+[Configurações para Microsoft Windows 2008](windows2008.md)
 
 ## 4. Links
 - **Markdown - primeiros passos**: https://help.github.com/articles/basic-writing-and-formatting-syntax/
