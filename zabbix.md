@@ -122,27 +122,27 @@ date.timezone = America/Recife
 ``` 
 http://IPDOSERVIDOR/zabbix
 ```
- - Tela 1
+
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/32847584/89577196-b4074480-d806-11ea-9745-6553f46b6a84.png">
 </p>
- - Tela 2
+
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/32847584/89577227-bcf81600-d806-11ea-8019-031050faba52.png">
 </p>
- - Tela 3
+
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/32847584/89577279-d4370380-d806-11ea-9781-69326ec0153f.png">
 </p>
- - Tela 4
+
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/32847584/89577309-e31db600-d806-11ea-8801-2ae3065efbe0.png">
 </p>
- - Tela 5
+
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/32847584/89577333-eadd5a80-d806-11ea-93ed-3ea6eadaee53.png">
 </p>
- - Tela 6
+
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/32847584/89577348-f2046880-d806-11ea-9517-bc1e736e4bce.png">
 </p>
@@ -151,7 +151,7 @@ http://IPDOSERVIDOR/zabbix
 	- Password: zabbix
 O login é case sensitive
 
- - Tela 7
+
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/32847584/89577375-f7fa4980-d806-11ea-9591-f021fabf0eb2.png">
 </p>
