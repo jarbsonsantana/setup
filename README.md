@@ -5,7 +5,7 @@ Configurações iniciais para sistemas operacionais na BrNet-Cloud
 1. [CentOS](#1-CentOS)
 2. [Ubuntu](#2-Ubuntu)
 3. [Microsfot Windows Server](#3-Microsoft-Windows-Server)
-4. [Links](#6-links)
+4. [Links](#4-links)
 
 ## 1. CentOS
 [Configurações para CentOS 6x](centos6x.md)
